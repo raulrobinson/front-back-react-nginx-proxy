@@ -1,5 +1,5 @@
-const ronin 		= require( 'ronin-server' )
-const mocks 		= require( 'ronin-mocks' )
+const ronin 	= require( 'ronin-server' )
+const mocks 	= require( 'ronin-mocks' )
 const database	= require( 'ronin-database' )
 
 async function main() {
